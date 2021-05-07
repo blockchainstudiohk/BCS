@@ -1,0 +1,25 @@
+{
+  "name": "Blockchain Studio",
+  "logoURI": "https://github.com/blockchainstudiohk/BCS/blob/ac1beaff593146cc7f55d4d4ffa2631486be68a4/NEW.LOGO.PNG",
+  "keywords": [
+      "Blockchain Studio",
+      "BCS",
+      "BCS"
+    ],
+    "timestamp": "2021-05-07T12:42:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x6dA77E11B22A1e3c0efaD7c02C0F1bF8dceA6D49",
+      "name": "Blockchain Studio",
+      "symbol": "BCS",
+      "decimals": 18,
+      "logoURI": "https://github.com/blockchainstudiohk/BCS/blob/ac1beaff593146cc7f55d4d4ffa2631486be68a4/NEW.LOGO.PNG"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
