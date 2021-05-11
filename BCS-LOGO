@@ -1,6 +1,6 @@
 {
   "name": "Blockchain Studio",
-  "logoURI": "https://github.com/blockchainstudiohk/BCS/blob/ac1beaff593146cc7f55d4d4ffa2631486be68a4/NEW.LOGO.PNG",
+  "logoURI": "https://raw.githubusercontent.com/blockchainstudiohk/BCS/main/logo-transparent%20(1).png",
   "keywords": [
       "Blockchain Studio",
       "BCS",
@@ -14,7 +14,7 @@
       "name": "Blockchain Studio",
       "symbol": "BCS",
       "decimals": 18,
-      "logoURI": "https://github.com/blockchainstudiohk/BCS/blob/ac1beaff593146cc7f55d4d4ffa2631486be68a4/NEW.LOGO.PNG"
+      "logoURI": "https://raw.githubusercontent.com/blockchainstudiohk/BCS/main/logo-transparent%20(1).png"
       }
     ],
     "version": {
