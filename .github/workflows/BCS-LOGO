@@ -1,0 +1,20 @@
+ethereum.request({
+  method: 'wallet_watchAsset',
+  params: {
+    type: 'ERC20',
+    options: {
+      address: '0x710AEF7AD539B755A0A04fd5D8Ff268d5a381B7F',
+      symbol: 'BCS',
+      decimals: 18,
+      image: 'https://raw.githubusercontent.com/blockchainstudiohk/BCS/main/logo%20(1).png',
+    },
+  },
+});
+  .then((success) => {
+    if (success) {
+      console.log('FOO successfully added to wallet!')
+    } else {
+      throw new Error('Something went wrong.')
+    }
+  })
+  .catch(console.error)
